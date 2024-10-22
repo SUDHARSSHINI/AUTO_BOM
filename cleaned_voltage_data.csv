@@ -1,0 +1,323 @@
+Reed switch ,Model,Type of switch,Voltage type ,Wiring type,Type of mount ,Wire size(meter),Guide cylinder type,Voltage1,Voltage2
+Reed switch,M9NV,Solid state auto switch,DC,3-wire (NPN),Perpendicular,1.5,Compact Guide Cylinder MGPKA,5,12
+Reed switch,M9PV,Solid state auto switch,DC,3-wire (PNP),Perpendicular,1.5,Compact Guide Cylinder MGPK,6,12
+Reed switch,M9BV,Solid state auto switch,DC,2-wire,Perpendicular,1.5,Compact Guide Cylinder MGPK,12,12
+Reed switch,M9NWVÂ,Solid state auto switch,DC,3-wire (NPN)Â,Perpendicular,1.5,Compact Guide Cylinder MGPK,5,12
+Reed switch,M9PWVÂ,Solid state auto switch,DC,3-wire (PNP)Â,Perpendicular,1.5,Compact Guide Cylinder MGPK,5,12
+Reed switch,M9BWVÂ,Solid state auto switch,DC,2-wireÂ,Perpendicular,1.5,Compact Guide Cylinder MGPK,12,12
+Reed switch,M9NAVâ1Â,Solid state auto switch,DC,3-wire (NPN)Â,Perpendicular,3,Compact Guide Cylinder MGPK,5,12
+Reed switch,M9PAVâ1Â,Solid state auto switch,DC,3-wire (PNP)Â,Perpendicular,3,Compact Guide Cylinder MGPK,6,12
+Reed switch,M9BAVâ1Â,Solid state auto switch,DC,2-wireÂ,Perpendicular,3,Compact Guide Cylinder MGPK,12,12
+Reed switch,A96VÂ,Reed auto switch,DC,3-wire (NPN equivalent)Â,Perpendicular,1.75,Compact Guide Cylinder MGPK,5,12
+Reed switch,A93Vâ2Â,Reed auto switch,DC/AC,2-wireÂ,Perpendicular,1.5,Compact Guide Cylinder MGPK,12,100
+Reed switch,A90VÂ,Reed auto switch,DC/AC,2-wireÂ,Perpendicular,1.75,Compact Guide Cylinder MGPK,12,100
+Reed switch,M9NÂ,Solid state auto switch,DC,3-wire (NPN),In-line,1.5,Compact Guide Cylinder MGPK,5,12
+Reed switch,M9PÂ,Solid state auto switch,DC,3-wire (PNP),In-line,1.5,Compact Guide Cylinder MGPK,6,12
+Reed switch,M9BÂ,Solid state auto switch,DC,2-wire,In-line,1.5,Compact Guide Cylinder MGPK,12,12
+Reed switch,M9NWÂ,Solid state auto switch,DC,3-wire (NPN)Â,In-line,1.5,Compact Guide Cylinder MGPK,5,12
+Reed switch,M9PWÂ,Solid state auto switch,DC,3-wire (PNP)Â,In-line,1.5,Compact Guide Cylinder MGPK,5,12
+Reed switch,M9BWÂ,Solid state auto switch,DC,2-wireÂ,In-line,1.5,Compact Guide Cylinder MGPK,12,12
+Reed switch,M9NAâ1Â,Solid state auto switch,DC,3-wire (NPN)Â,In-line,3,Compact Guide Cylinder MGPK,5,12
+Reed switch,M9PAâ1Â,Solid state auto switch,DC,3-wire (PNP)Â,In-line,3,Compact Guide Cylinder MGPK,6,12
+Reed switch,M9BAâ1Â,Solid state auto switch,DC,2-wireÂ,In-line,3,Compact Guide Cylinder MGPK,12,12
+Reed switch,A96Â,Reed auto switch,DC,3-wire (NPN equivalent)Â,In-line,1.75,Compact Guide Cylinder MGPK,5,12
+Reed switch,A93Â,Reed auto switch,DC/AC,2-wireÂ,In-line,1.5,Compact Guide Cylinder MGPK,12100,12
+Reed switch,A90Â,Reed auto switch,DC/AC,2-wireÂ,In-line,1.75,Compact Guide Cylinder MGPK,12100,12
+Reed switch,M9NV,Solid state auto switch,DC,3-wire (NPN),Perpendicular,1.5,Compact Guide Cylinder MGP,5,12
+Reed switch,M9PV,Solid state auto switch,DC,3-wire (PNP)Â,Perpendicular,1.5,Compact Guide Cylinder MGP,6,12
+Reed switch,M9BV,Solid state auto switch,DC,2-wireÂ,Perpendicular,1.5,Compact Guide Cylinder MGP,12,12
+Reed switch,M9NWV,Solid state auto switch,DC,3-wire (NPN)Â,Perpendicular,1.5,Compact Guide Cylinder MGP,5,12
+Reed switch,M9PWV,Solid state auto switch,DC,3-wire (PNP)Â,Perpendicular,1.5,Compact Guide Cylinder MGP,6,12
+Reed switch,M9BWV1Â,Solid state auto switch,DC,2-wireÂ,Perpendicular,1.5,Compact Guide Cylinder MGP,12,12
+Reed switch,M9NAV*1Â,Solid state auto switch,DC,3-wire (NPN)Â,Perpendicular,3,Compact Guide Cylinder MGP,5,12
+Reed switch,M9PAV*1Â,Solid state auto switch,DC,3-wire (PNP)Â,Perpendicular,3,Compact Guide Cylinder MGP,6,12
+Reed switch,M9BAV*,Solid state auto switch,DC,2-wireÂ,Perpendicular,3,Compact Guide Cylinder MGP,12,12
+Reed switch,âÂ,Solid state auto switch,DC,2-wire (Non-polar)Â,Perpendicular,2.833333333,Compact Guide Cylinder MGP,6,12
+Reed switch,A96V3Â,Reed auto switch,DC,3-wire (NPN equivalent)Â,Perpendicular,1.75,Compact Guide Cylinder MGP,5,12
+Reed switch,A93V*,Reed auto switch,DC/AC,2-wire,Perpendicular,2.375,Compact Guide Cylinder MGP,12,12
+Reed switch,A90V,Reed auto switch,DC/AC,2-wire,Perpendicular,1.75,Compact Guide Cylinder MGP,13,12
+Reed switch,M9NÂ,Solid state auto switch,DC,3-wire (NPN),In-line,1.5,Compact Guide Cylinder MGP,5,12
+Reed switch,M9PÂ,Solid state auto switch,DC,3-wire (PNP)Â,In-line,1.5,Compact Guide Cylinder MGP,6,12
+Reed switch,M9BÂ,Solid state auto switch,DC,2-wireÂ,In-line,1.5,Compact Guide Cylinder MGP,12,12
+Reed switch,M9NWÂ,Solid state auto switch,DC,3-wire (NPN)Â,In-line,1.5,Compact Guide Cylinder MGP,5,12
+Reed switch,M9PWÂ,Solid state auto switch,DC,3-wire (PNP)Â,In-line,1.5,Compact Guide Cylinder MGP,6,12
+Reed switch,M9BW 1Â,Solid state auto switch,DC,2-wireÂ,In-line,1.5,Compact Guide Cylinder MGP,12,12
+Reed switch,M9NA*1Â,Solid state auto switch,DC,3-wire (NPN)Â,In-line,3,Compact Guide Cylinder MGP,5,12
+Reed switch,M9PA*1Â,Solid state auto switch,DC,3-wire (PNP)Â,In-line,3,Compact Guide Cylinder MGP,6,12
+Reed switch,M9BA*,Solid state auto switch,DC,2-wireÂ,In-line,3,Compact Guide Cylinder MGP,12,12
+Reed switch,P3DWA*2Â,Solid state auto switch,DC,2-wire (Non-polar)Â,In-line,2.833333333,Compact Guide Cylinder MGP,6,12
+Reed switch,A96Â,Reed auto switch,DC,3-wire (NPN equivalent)Â,In-line,1.75,Compact Guide Cylinder MGP,5,12
+Reed switch,A93Â,Reed auto switch,DC/AC,2-wire,In-line,2.375,Compact Guide Cylinder MGP,12,12
+Reed switch,A90Â,Reed auto switch,DC/AC,2-wire,In-line,1.75,Compact Guide Cylinder MGP,12,12
+Reed switch,M9NV,Solid state auto switch,DC,3-wire (NPN),Perpendicular,1.5,Longer Life Cylinder MGP-XB24,5,12
+Reed switch,M9PV,Solid state auto switch,DC,3-wire (PNP)Â,Perpendicular,1.5,Longer Life Cylinder MGP-XB24,6,12
+Reed switch,M9BV,Solid state auto switch,DC,2-wireÂ,Perpendicular,1.5,Longer Life Cylinder MGP-XB24,12,12
+Reed switch,M9NWV,Solid state auto switch,DC,3-wire (NPN)Â,Perpendicular,1.5,Longer Life Cylinder MGP-XB24,5,12
+Reed switch,M9PWV,Solid state auto switch,DC,3-wire (PNP)Â,Perpendicular,1.5,Longer Life Cylinder MGP-XB24,6,12
+Reed switch,M9BWV,Solid state auto switch,DC,2-wireÂ,Perpendicular,1.5,Longer Life Cylinder MGP-XB24,12,12
+Reed switch,M9NAV*1Â,Solid state auto switch,DC,3-wire (NPN)Â,Perpendicular,3,Longer Life Cylinder MGP-XB24,5,12
+Reed switch,M9PAV*1Â,Solid state auto switch,DC,3-wire (PNP)Â,Perpendicular,3,Longer Life Cylinder MGP-XB24,6,12
+Reed switch,M9BAV*1Â,Solid state auto switch,DC,2-wireÂ,Perpendicular,3,Longer Life Cylinder MGP-XB24,12,12
+Reed switch,âÂ,Solid state auto switch,DC,2-wireÂ Â,Perpendicular,2.833333333,Longer Life Cylinder MGP-XB24,6,12
+Reed switch,A96V,Reed auto switch,DC,(Non-polar)Â,Perpendicular,1.75,Longer Life Cylinder MGP-XB24,5,12
+Reed switch,A93V*3Â,Reed auto switch,DC/AC,3-wireÂ Â,Perpendicular,2.375,Longer Life Cylinder MGP-XB24,12,12
+Reed switch,A90V,Reed auto switch,DC/AC,(NPN equivalent)Â,Perpendicular,1.75,Longer Life Cylinder MGP-XB24,12,12
+Reed switch,M9NÂ,Solid state auto switch,DC,3-wire (NPN),In-line,1.5,Longer Life Cylinder MGP-XB24,5,12
+Reed switch,M9PÂ,Solid state auto switch,DC,3-wire (PNP)Â,In-line,1.5,Longer Life Cylinder MGP-XB24,6,12
+Reed switch,M9BÂ,Solid state auto switch,DC,2-wireÂ,In-line,1.5,Longer Life Cylinder MGP-XB24,12,12
+Reed switch,M9NWÂ,Solid state auto switch,DC,3-wire (NPN)Â,In-line,1.5,Longer Life Cylinder MGP-XB24,5,12
+Reed switch,M9PWÂ,Solid state auto switch,DC,3-wire (PNP)Â,In-line,1.5,Longer Life Cylinder MGP-XB24,6,12
+Reed switch,M9BWÂ,Solid state auto switch,DC,2-wireÂ,In-line,1.5,Longer Life Cylinder MGP-XB24,12,12
+Reed switch,M9NA*1Â,Solid state auto switch,DC,3-wire (NPN)Â,In-line,3,Longer Life Cylinder MGP-XB24,5,12
+Reed switch,M9PA*1Â,Solid state auto switch,DC,3-wire (PNP)Â,In-line,3,Longer Life Cylinder MGP-XB24,6,12
+Reed switch,M9BA*1Â,Solid state auto switch,DC,2-wireÂ,In-line,3,Longer Life Cylinder MGP-XB24,12,12
+Reed switch,P3DWA*2Â,Solid state auto switch,DC,2-wireÂ Â,In-line,2.833333333,Longer Life Cylinder MGP-XB24,6,12
+Reed switch,A96Â,Reed auto switch,DC,(Non-polar)Â,In-line,1.75,Longer Life Cylinder MGP-XB24,5,12
+Reed switch,A93Â,Reed auto switch,DC/AC,3-wireÂ Â,In-line,2.375,Longer Life Cylinder MGP-XB24,12,12
+Reed switch,A90Â,Reed auto switch,DC/AC,(NPN equivalent)Â,In-line,1.75,Longer Life Cylinder MGP-XB24,12,12
+Reed switch,F8N,Solid state auto switch,DC,3-wire (NPN)Â,Direct mounting,1.75,Miniature Guide Rod Cylinder MGJ,5,12
+Reed switch,F8P,Solid state auto switch,DC,3-wire (PNP)Â,Direct mounting,1.75,Miniature Guide Rod Cylinder MGJ,5,12
+Reed switch,F8B,Solid state auto switch,DC,3-wireÂ,Direct mounting,1.75,Miniature Guide Rod Cylinder MGJ,12,12
+Reed switch,F8NÂ,Solid state auto switch,DC,3-wire (NPN)Â,Direct mounting,1.75,Longer Life Cylinder MGJ-XB24,5,12
+Reed switch,F8PÂ,Solid state auto switch,DC,3-wire (PNP)Â,Direct mounting,1.75,Longer Life Cylinder MGJ-XB24,5,12
+Reed switch,F8BÂ,Solid state auto switch,DC,3-wireÂ,Direct mounting,1.75,Longer Life Cylinder MGJ-XB24,13,12
+Reed switch,M9NV,Solid state auto switch,DC,3-wire (NPN),Perpendicular,1.5,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,5,12
+Reed switch,M9PV,Solid state auto switch,DC,3-wire (PNP)Â,Perpendicular,1.5,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,5,12
+Reed switch,M9BV,Solid state auto switch,DC,2-wireÂ,Perpendicular,1.5,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,12,12
+Reed switch,M9NWV,Solid state auto switch,DC,3-wire (NPN)Â,Perpendicular,1.5,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,5,12
+Reed switch,M9PWV,Solid state auto switch,DC,3-wire (PNP)Â,Perpendicular,1.5,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,5,12
+Reed switch,M9BWV1Â,Solid state auto switch,DC,2-wireÂ,Perpendicular,1.5,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,12,12
+Reed switch,M9NAV*1Â,Solid state auto switch,DC,3-wire (NPN)Â,Perpendicular,3,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,5,12
+Reed switch,M9PAV*1Â,Solid state auto switch,DC,3-wire (PNP)Â,Perpendicular,3,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,5,12
+Reed switch,M9BAV*,Solid state auto switch,DC,2-wireÂ,Perpendicular,3,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,12,12
+Reed switch,âÂ,Solid state auto switch,DC,2-wire (Non-polar)Â,Perpendicular,1.75,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,6,12
+Reed switch,A96V3Â,Reed auto switch,DC,3-wire (NPN equivalent)Â,Perpendicular,1.75,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,5,12
+Reed switch,A93V*,Reed auto switch,DC/AC,2-wire,Perpendicular,1.5,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,12,12
+Reed switch,A90V,Reed auto switch,DC/AC,2-wire,Perpendicular,1.75,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,12,12
+Reed switch,M9NÂ,Solid state auto switch,DC,3-wire (NPN),In-line,1.5,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,5,12
+Reed switch,M9PÂ,Solid state auto switch,DC,3-wire (PNP)Â,In-line,1.5,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,5,12
+Reed switch,M9BÂ,Solid state auto switch,DC,2-wireÂ,In-line,1.5,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,12,12
+Reed switch,M9NWÂ,Solid state auto switch,DC,3-wire (NPN)Â,In-line,1.5,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,5,12
+Reed switch,M9PWÂ,Solid state auto switch,DC,3-wire (PNP)Â,In-line,1.5,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,5,12
+Reed switch,M9BW 1Â,Solid state auto switch,DC,2-wireÂ,In-line,1.5,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,12,12
+Reed switch,M9NA*1Â,Solid state auto switch,DC,3-wire (NPN)Â,In-line,3,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,5,12
+Reed switch,M9PA*1Â,Solid state auto switch,DC,3-wire (PNP)Â,In-line,3,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,5,12
+Reed switch,M9BA*,Solid state auto switch,DC,2-wireÂ,In-line,3,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,12,12
+Reed switch,P3DWA*2Â,Solid state auto switch,DC,2-wire (Non-polar)Â,In-line,1.75,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,6,12
+Reed switch,A96Â,Reed auto switch,DC,3-wire (NPN equivalent)Â,In-line,1.75,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,5,12
+Reed switch,A93Â,Reed auto switch,DC/AC,2-wire,In-line,1.5,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,12,12
+Reed switch,A90Â,Reed auto switch,DC/AC,2-wire,In-line,1.75,Compact Guide Cylinder/Rectangular Piston Type MGPM-X3159,12,12
+Reed switch,M9NV,Solid state auto switch,DC,3-wire (NPN),Perpendicular,1.5,Compact Guide Cylinder/Wide Type MGPW,5,12
+Reed switch,M9PV,Solid state auto switch,DC,3-wire (PNP),Perpendicular,1.5,Compact Guide Cylinder/Wide Type MGPW,5,12
+Reed switch,M9BV,Solid state auto switch,DC,2-wire,Perpendicular,1.5,Compact Guide Cylinder/Wide Type MGPW,12,12
+Reed switch,M9NWV,Solid state auto switch,DC,3-wire (NPN),Perpendicular,1.5,Compact Guide Cylinder/Wide Type MGPW,5,12
+Reed switch,M9PWV,Solid state auto switch,DC,3-wire (PNP),Perpendicular,1.5,Compact Guide Cylinder/Wide Type MGPW,5,12
+Reed switch,M9BWV,Solid state auto switch,DC,2-wire,Perpendicular,1.5,Compact Guide Cylinder/Wide Type MGPW,12,12
+Reed switch,M9NAVâ1,Solid state auto switch,DC,3-wire (NPN),Perpendicular,3,Compact Guide Cylinder/Wide Type MGPW,5,12
+Reed switch,M9PAVâ1,Solid state auto switch,DC,3-wire (PNP),Perpendicular,3,Compact Guide Cylinder/Wide Type MGPW,5,12
+Reed switch,M9BAVâ1,Solid state auto switch,DC,2-wireÂ,Perpendicular,3,Compact Guide Cylinder/Wide Type MGPW,12,12
+Reed switch,â,Solid state auto switch,DC,2-wire (Non-polar),Perpendicular,2.833333333,Compact Guide Cylinder/Wide Type MGPW,6,12
+Reed switch,A96V,Reed auto switch,DC,3-wire,Perpendicular,1.75,Compact Guide Cylinder/Wide Type MGPW,5,12
+Reed switch,A93Vâ2,Reed auto switch,DC/AC,(NPN equivalent),Perpendicular,2.375,Compact Guide Cylinder/Wide Type MGPW,12,12
+Reed switch,A90V,Reed auto switch,DC/AC,2-wire,Perpendicular,1.75,Compact Guide Cylinder/Wide Type MGPW,12,12
+Reed switch,M9N,Solid state auto switch,DC,3-wire (NPN),In-line,1.5,Compact Guide Cylinder/Wide Type MGPW,5,12
+Reed switch,M9P,Solid state auto switch,DC,3-wire (PNP),In-line,1.5,Compact Guide Cylinder/Wide Type MGPW,5,12
+Reed switch,M9B,Solid state auto switch,DC,2-wire,In-line,1.5,Compact Guide Cylinder/Wide Type MGPW,12,12
+Reed switch,M9NW,Solid state auto switch,DC,3-wire (NPN),In-line,1.5,Compact Guide Cylinder/Wide Type MGPW,5,12
+Reed switch,M9PW,Solid state auto switch,DC,3-wire (PNP),In-line,1.5,Compact Guide Cylinder/Wide Type MGPW,5,12
+Reed switch,M9BW,Solid state auto switch,DC,2-wire,In-line,1.5,Compact Guide Cylinder/Wide Type MGPW,12,12
+Reed switch,M9NAâ1,Solid state auto switch,DC,3-wire (NPN),In-line,3,Compact Guide Cylinder/Wide Type MGPW,5,12
+Reed switch,M9PAâ1,Solid state auto switch,DC,3-wire (PNP),In-line,3,Compact Guide Cylinder/Wide Type MGPW,5,12
+Reed switch,M9BAâ1,Solid state auto switch,DC,2-wireÂ,In-line,3,Compact Guide Cylinder/Wide Type MGPW,12,12
+Reed switch,P3DWAââ,Solid state auto switch,DC,2-wire (Non-polar),In-line,2.833333333,Compact Guide Cylinder/Wide Type MGPW,6,12
+Reed switch,A96,Reed auto switch,DC,3-wire,In-line,1.75,Compact Guide Cylinder/Wide Type MGPW,5,12
+Reed switch,A93,Reed auto switch,DC/AC,(NPN equivalent),In-line,2.375,Compact Guide Cylinder/Wide Type MGPW,12,12
+Reed switch,A90,Reed auto switch,DC/AC,2-wire,In-line,1.75,Compact Guide Cylinder/Wide Type MGPW,12,12
+Reed switch,M9NV,Solid state auto switch,DC,3-wire (NPN),Perpendicular,1.5,Compact Guide Cylinder MGQ,5,12
+Reed switch,M9PV,Solid state auto switch,DC,3-wire (PNP),Perpendicular,1.5,Compact Guide Cylinder MGQ,5,12
+Reed switch,M9BV,Solid state auto switch,DC,2-wire,Perpendicular,1.5,Compact Guide Cylinder MGQ,12,12
+Reed switch,M9NWV,Solid state auto switch,DC,3-wire (NPN),Perpendicular,1.5,Compact Guide Cylinder MGQ,5,12
+Reed switch,M9PWV,Solid state auto switch,DC,3-wire (PNP),Perpendicular,1.5,Compact Guide Cylinder MGQ,5,12
+Reed switch,M9BWV,Solid state auto switch,DC,2-wire,Perpendicular,1.5,Compact Guide Cylinder MGQ,12,12
+Reed switch,M9NAVâ1,Solid state auto switch,DC,3-wire (NPN),Perpendicular,3,Compact Guide Cylinder MGQ,5,12
+Reed switch,M9PAVâ1,Solid state auto switch,DC,3-wire (PNP),Perpendicular,3,Compact Guide Cylinder MGQ,5,12
+Reed switch,M9BAVâ1,Solid state auto switch,DC,2-wire,Perpendicular,3,Compact Guide Cylinder MGQ,12,12
+Reed switch,A96V,Reed auto switch,DC,3-wire(NPN equivalent)Â,Perpendicular,1.75,Compact Guide Cylinder MGQ,5,12
+Reed switch,A93Vâ2,Reed auto switch,DC,2-wire,Perpendicular,2.375,Compact Guide Cylinder MGQ,12,12
+Reed switch,A90V,Reed auto switch,DC,2-wire,Perpendicular,1.75,Compact Guide Cylinder MGQ,12,12
+Reed switch,M9N,Solid state auto switch,DC,3-wire (NPN),In-line,1.5,Compact Guide Cylinder MGQ,5,12
+Reed switch,M9P,Solid state auto switch,DC,3-wire (PNP),In-line,1.5,Compact Guide Cylinder MGQ,5,12
+Reed switch,M9B,Solid state auto switch,DC,2-wire,In-line,1.5,Compact Guide Cylinder MGQ,12,12
+Reed switch,M9NW,Solid state auto switch,DC,3-wire (NPN),In-line,1.5,Compact Guide Cylinder MGQ,5,12
+Reed switch,M9PW,Solid state auto switch,DC,3-wire (PNP),In-line,1.5,Compact Guide Cylinder MGQ,5,12
+Reed switch,M9BW,Solid state auto switch,DC,2-wire,In-line,1.5,Compact Guide Cylinder MGQ,12,12
+Reed switch,M9NAâ1,Solid state auto switch,DC,3-wire (NPN),In-line,3,Compact Guide Cylinder MGQ,5,12
+Reed switch,M9PAâ1,Solid state auto switch,DC,3-wire (PNP),In-line,3,Compact Guide Cylinder MGQ,5,12
+Reed switch,M9BAâ1,Solid state auto switch,DC,2-wire,In-line,3,Compact Guide Cylinder MGQ,12,12
+Reed switch,A96,Reed auto switch,DC,3-wire(NPN equivalent)Â,In-line,1.75,Compact Guide Cylinder MGQ,5,12
+Reed switch,A93,Reed auto switch,DC,2-wire,In-line,2.375,Compact Guide Cylinder MGQ,12,12
+Reed switch,A90,Reed auto switch,DC,2-wire,In-line,1.75,Compact Guide Cylinder MGQ,12,12
+Reed switch,M9NV,Solid state auto switch,DC,3-wire (NPN),Perpendicular(Ã¸20 to Ã¸63),1.5,Guide Cylinder MGG,5,12
+Reed switch,â,Solid state auto switch,DC,3-wire (NPN),Perpendicular(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,5,12
+Reed switch,M9PV,Solid state auto switch,DC,3-wire (PNP),Perpendicular(Ã¸20 to Ã¸63),1.5,Guide Cylinder MGG,5,12
+Reed switch,â,Solid state auto switch,DC,3-wire (PNP),Perpendicular(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,5,12
+Reed switch,M9BV,Solid state auto switch,DC,2-wire,Perpendicular(Ã¸20 to Ã¸63),1.5,Guide Cylinder MGG,12,12
+Reed switch,â,Solid state auto switch,DC,2-wire,Perpendicular(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,12,12
+Reed switch,â,Solid state auto switch,DC,2-wire,Perpendicular(Ã¸20 to Ã¸63),2.833333333,Guide Cylinder MGG,12,12
+Reed switch,M9NWV,Solid state auto switch,DC,3-wire (NPN),Perpendicular(Ã¸20 to Ã¸63),1.5,Guide Cylinder MGG,5,12
+Reed switch,â,Solid state auto switch,DC,3-wire (NPN),Perpendicular(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,5,12
+Reed switch,M9PWV,Solid state auto switch,DC,3-wire (PNP),Perpendicular(Ã¸20 to Ã¸63),1.5,Guide Cylinder MGG,5,12
+Reed switch,â,Solid state auto switch,DC,3-wire (PNP),Perpendicular(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,5,12
+Reed switch,M9BWV,Solid state auto switch,DC,2-wire,Perpendicular(Ã¸20 to Ã¸63),3,Guide Cylinder MGG,12,12
+Reed switch,â,Solid state auto switch,DC,2-wire,Perpendicular(Ã¸20 to Ã¸63),3,Guide Cylinder MGG,12,12
+Reed switch,M9NAVâ1,Solid state auto switch,DC,3-wire (NPN),Perpendicular(Ã¸20 to Ã¸63),3,Guide Cylinder MGG,5,12
+Reed switch,M9PAVâ1,Solid state auto switch,DC,3-wire (PNP),Perpendicular(Ã¸20 to Ã¸63),3,Guide Cylinder MGG,5,12
+Reed switch,M9BAVâ1,Solid state auto switch,DC,2-wire,Perpendicular(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,12,12
+Reed switch,â,Solid state auto switch,DC,2-wire,Perpendicular(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,12,12
+Reed switch,â,Solid state auto switch,DC,4-wire (NPN),Perpendicular(Ã¸20 to Ã¸63),2.375,Guide Cylinder MGG,5,12
+Reed switch,A96V,Reed auto switch,DC,3-wireÂ,Perpendicular(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,5,12
+Reed switch,A93Vâ2,Reed auto switch,AC,(NPN equivalent),Perpendicular(Ã¸20 to Ã¸63),2.833333333,Guide Cylinder MGG,100,12
+Reed switch,A90V,Reed auto switch,AC,2-wire,Perpendicular(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,100,12
+Reed switch,â,Reed auto switch,AC,2-wire,Perpendicular(Ã¸20 to Ã¸63),2.833333333,Guide Cylinder MGG,100,200
+Reed switch,â,Reed auto switch,AC,2-wire,Perpendicular(Ã¸20 to Ã¸63),2.833333333,Guide Cylinder MGG,200,12
+Reed switch,â,Reed auto switch,AC,2-wire,Perpendicular(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,6,12
+Reed switch,â,Reed auto switch,AC,2-wire,Perpendicular(Ã¸20 to Ã¸63),2.833333333,Guide Cylinder MGG,24,12
+Reed switch,â,Reed auto switch,AC,2-wire,Perpendicular(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,6,12
+Reed switch,M9N,Solid state auto switch,DC,3-wire (NPN),In-line(Ã¸20 to Ã¸63),1.5,Guide Cylinder MGG,5,12
+Reed switch,â,Solid state auto switch,DC,3-wire (NPN),In-line(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,5,12
+Reed switch,M9P,Solid state auto switch,DC,3-wire (PNP),In-line(Ã¸20 to Ã¸63),1.5,Guide Cylinder MGG,5,12
+Reed switch,â,Solid state auto switch,DC,3-wire (PNP),In-line(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,5,12
+Reed switch,M9B,Solid state auto switch,DC,2-wire,In-line(Ã¸20 to Ã¸63),1.5,Guide Cylinder MGG,12,12
+Reed switch,â,Solid state auto switch,DC,2-wire,In-line(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,12,12
+Reed switch,H7C,Solid state auto switch,DC,2-wire,In-line(Ã¸20 to Ã¸63),2.833333333,Guide Cylinder MGG,12,12
+Reed switch,M9NW,Solid state auto switch,DC,3-wire (NPN),In-line(Ã¸20 to Ã¸63),1.5,Guide Cylinder MGG,5,12
+Reed switch,â,Solid state auto switch,DC,3-wire (NPN),In-line(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,5,12
+Reed switch,M9PW,Solid state auto switch,DC,3-wire (PNP),In-line(Ã¸20 to Ã¸63),1.5,Guide Cylinder MGG,5,12
+Reed switch,â,Solid state auto switch,DC,3-wire (PNP),In-line(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,5,12
+Reed switch,M9BW,Solid state auto switch,DC,2-wire,In-line(Ã¸20 to Ã¸63),3,Guide Cylinder MGG,12,12
+Reed switch,â,Solid state auto switch,DC,2-wire,In-line(Ã¸20 to Ã¸63),3,Guide Cylinder MGG,12,12
+Reed switch,M9NAâ1,Solid state auto switch,DC,3-wire (NPN),In-line(Ã¸20 to Ã¸63),3,Guide Cylinder MGG,5,12
+Reed switch,M9PAâ1,Solid state auto switch,DC,3-wire (PNP),In-line(Ã¸20 to Ã¸63),3,Guide Cylinder MGG,5,12
+Reed switch,M9BAâ1,Solid state auto switch,DC,2-wire,In-line(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,12,12
+Reed switch,â,Solid state auto switch,DC,2-wire,In-line(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,12,12
+Reed switch,H7NF,Solid state auto switch,DC,4-wire (NPN),In-line(Ã¸20 to Ã¸63),2.375,Guide Cylinder MGG,5,12
+Reed switch,A96,Reed auto switch,DC,3-wireÂ,In-line(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,5,12
+Reed switch,A93,Reed auto switch,AC,(NPN equivalent),In-line(Ã¸20 to Ã¸63),2.833333333,Guide Cylinder MGG,100,12
+Reed switch,A90,Reed auto switch,AC,2-wire,In-line(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,100,12
+Reed switch,B54,Reed auto switch,AC,2-wire,In-line(Ã¸20 to Ã¸63),2.833333333,Guide Cylinder MGG,100,200
+Reed switch,B64,Reed auto switch,AC,2-wire,In-line(Ã¸20 to Ã¸63),2.833333333,Guide Cylinder MGG,200,12
+Reed switch,C73C,Reed auto switch,AC,2-wire,In-line(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,6,12
+Reed switch,C80C,Reed auto switch,AC,2-wire,In-line(Ã¸20 to Ã¸63),2.833333333,Guide Cylinder MGG,24,12
+Reed switch,B59W,Reed auto switch,AC,2-wire,In-line(Ã¸20 to Ã¸63),1.75,Guide Cylinder MGG,6,12
+Reed switch,M9NV,Solid state auto switch,DC,3-wire (NPN),Perpendicular(Ã¸20 to Ã¸50),1.5,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9PV,Solid state auto switch,DC,3-wire (PNP),Perpendicular(Ã¸20 to Ã¸50),1.5,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9BV,Solid state auto switch,DC,2-wire,Perpendicular(Ã¸20 to Ã¸50),1.5,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,â,Solid state auto switch,DC,2-wire,Perpendicular(Ã¸20 to Ã¸50),2.833333333,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,M9NWV,Solid state auto switch,DC,3-wire (NPN),Perpendicular(Ã¸20 to Ã¸50),1.5,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9PWV,Solid state auto switch,DC,3-wire (PNP),Perpendicular(Ã¸20 to Ã¸50),1.5,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9BWV,Solid state auto switch,DC,2-wire,Perpendicular(Ã¸20 to Ã¸50),1.5,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,M9NAVâ1,Solid state auto switch,DC,3-wire (NPN),Perpendicular(Ã¸20 to Ã¸50),3,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9PAVâ1,Solid state auto switch,DC,3-wire (PNP),Perpendicular(Ã¸20 to Ã¸50),3,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9BAVâ1,Solid state auto switch,DC,2-wire,Perpendicular(Ã¸20 to Ã¸50),3,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,â,Solid state auto switch,DC,4-wire (NPN),Perpendicular(Ã¸20 to Ã¸50),2,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,A96V,Reed auto switch,DC,3-wire,Perpendicular(Ã¸20 to Ã¸50),2,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,A93Vâ2,Reed auto switch,DC/AC,(NPN equivalent),Perpendicular(Ã¸20 to Ã¸50),2.375,Guide Cylinder/Compact Type MGC,12,100
+Reed switch,A90V,Reed auto switch,DC/AC,2-wire,Perpendicular(Ã¸20 to Ã¸50),1.75,Guide Cylinder/Compact Type MGC,100,12
+Reed switch,â,Reed auto switch,DC/AC,2-wire,Perpendicular(Ã¸20 to Ã¸50),2.833333333,Guide Cylinder/Compact Type MGC,100,200
+Reed switch,â,Reed auto switch,DC/AC,2-wire,Perpendicular(Ã¸20 to Ã¸50),2,Guide Cylinder/Compact Type MGC,200,12
+Reed switch,â,Reed auto switch,DC/AC,2-wire,Perpendicular(Ã¸20 to Ã¸50),3,Guide Cylinder/Compact Type MGC,6,12
+Reed switch,â,Reed auto switch,DC/AC,2-wire,Perpendicular(Ã¸20 to Ã¸50),3,Guide Cylinder/Compact Type MGC,24,12
+Reed switch,â,Reed auto switch,DC/AC,2-wire,Perpendicular(Ã¸20 to Ã¸50),2,Guide Cylinder/Compact Type MGC,6,12
+Reed switch,M9N,Solid state auto switch,DC,3-wire (NPN),"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",1.5,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9P,Solid state auto switch,DC,3-wire (PNP),"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",1.5,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9B,Solid state auto switch,DC,2-wire,"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",1.5,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,H7C,Solid state auto switch,DC,2-wire,"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",2.833333333,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,M9NW,Solid state auto switch,DC,3-wire (NPN),"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",1.5,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9PW,Solid state auto switch,DC,3-wire (PNP),"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",1.5,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9BW,Solid state auto switch,DC,2-wire,"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",1.5,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,M9NAâ1,Solid state auto switch,DC,3-wire (NPN),"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",3,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9PAâ1,Solid state auto switch,DC,3-wire (PNP),"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",3,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9BAâ1,Solid state auto switch,DC,2-wire,"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",3,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,H7NF,Solid state auto switch,DC,4-wire (NPN),"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",2,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,A96,Reed auto switch,DC,3-wire,"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",2,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,A93,Reed auto switch,DC/AC,(NPN equivalent),"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",2.375,Guide Cylinder/Compact Type MGC,12,100
+Reed switch,A90,Reed auto switch,DC/AC,2-wire,"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",1.75,Guide Cylinder/Compact Type MGC,100,12
+Reed switch,(B54),Reed auto switch,DC/AC,2-wire,"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",2.833333333,Guide Cylinder/Compact Type MGC,100,200
+Reed switch,(B64),Reed auto switch,DC/AC,2-wire,"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",2,Guide Cylinder/Compact Type MGC,200,12
+Reed switch,C73C,Reed auto switch,DC/AC,2-wire,"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",3,Guide Cylinder/Compact Type MGC,6,12
+Reed switch,C80C,Reed auto switch,DC/AC,2-wire,"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",3,Guide Cylinder/Compact Type MGC,24,12
+Reed switch,(B59W),Reed auto switch,DC/AC,2-wire,"In-line(Ã¸20, Ã¸25,Ã¸32,Ã¸40, Ã¸50 .)",2,Guide Cylinder/Compact Type MGC,6,12
+Reed switch,M9NV,Solid state auto switch,DC,3-wire (NPN),Perpendicular,1.5,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9PV,Solid state auto switch,DC,3-wire (PNP),Perpendicular,1.5,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,M9BV,Solid state auto switch,DC,2-wire,Perpendicular,1.5,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,M9NWV,Solid state auto switch,DC,3-wire (NPN),Perpendicular,1.5,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9PWV,Solid state auto switch,DC,3-wire (PNP),Perpendicular,1.5,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,M9BWV,Solid state auto switch,DC,2-wire,Perpendicular,1.5,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,M9NAVâ1,Solid state auto switch,DC,3-wire (PNP),Perpendicular,3,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9PAVâ1,Solid state auto switch,DC,3-wire (PNP),Perpendicular,3,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,M9BAVâ1,Solid state auto switch,DC,2-wire,Perpendicular,3,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,â,Solid state auto switch,DC,2-wire (Non-polar),Perpendicular,2.833333333,Guide Cylinder/Compact Type MGC,6,12
+Reed switch,A96V,Reed auto switch,DC/AC,3-wire (NPN equivalent),Perpendicular,1.75,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,A93Vâ2,Reed auto switch,DC/AC,2-wire,Perpendicular,2.375,Guide Cylinder/Compact Type MGC,12,100
+Reed switch,A90V,Reed auto switch,DC/AC,3-wire (NPN equivalent),Perpendicular,1.75,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9N,Solid state auto switch,DC,3-wire (NPN),In-line,1.5,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9P,Solid state auto switch,DC,3-wire (PNP),In-line,1.5,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,M9B,Solid state auto switch,DC,2-wire,In-line,1.5,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,M9NW,Solid state auto switch,DC,3-wire (NPN),In-line,1.5,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9PW,Solid state auto switch,DC,3-wire (PNP),In-line,1.5,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,M9BW,Solid state auto switch,DC,2-wire,In-line,1.5,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,M9NAâ1,Solid state auto switch,DC,3-wire (PNP),In-line,3,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9PAâ1,Solid state auto switch,DC,3-wire (PNP),In-line,3,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,M9BAâ1,Solid state auto switch,DC,2-wire,In-line,3,Guide Cylinder/Compact Type MGC,12,12
+Reed switch,P3DWA,Solid state auto switch,DC,2-wire (Non-polar),In-line,2.833333333,Guide Cylinder/Compact Type MGC,6,12
+Reed switch,A96,Reed auto switch,DC/AC,3-wire (NPN equivalent),In-line,1.75,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,A93,Reed auto switch,DC/AC,2-wire,In-line,2.375,Guide Cylinder/Compact Type MGC,12,100
+Reed switch,A90,Reed auto switch,DC/AC,3-wire (NPN equivalent),In-line,1.75,Guide Cylinder/Compact Type MGC,5,12
+Reed switch,M9NV,Solid state auto switch,DC,3-wire (NPN),Perpendicular,1.5,Guide Table MGF,5,12
+Reed switch,M9PV,Solid state auto switch,DC,3-wire (PNP),Perpendicular,1.5,Guide Table MGF,5,12
+Reed switch,M9BV,Solid state auto switch,DC,2-wire,Perpendicular,1.5,Guide Table MGF,12,12
+Reed switch,M9NWV,Solid state auto switch,DC,3-wire (NPN),Perpendicular,1.5,Guide Table MGF,5,12
+Reed switch,M9PWV,Solid state auto switch,DC,3-wire (PNP),Perpendicular,1.5,Guide Table MGF,5,12
+Reed switch,M9BWV,Solid state auto switch,DC,2-wire,Perpendicular,1.5,Guide Table MGF,12,12
+Reed switch,M9NAVââ,Solid state auto switch,DC,3-wire (NPN),Perpendicular,3,Guide Table MGF,5,12
+Reed switch,M9PAVââ,Solid state auto switch,DC,3-wire (PNP),Perpendicular,3,Guide Table MGF,5,12
+Reed switch,M9BAVââ,Solid state auto switch,DC,2-wire,Perpendicular,3,Guide Table MGF,12,12
+Reed switch,â,Solid state auto switch,DC,3-wire(NPN equivalent)Â,Perpendicular,2,Guide Table MGF,5,12
+Reed switch,â,Reed auto switch,DC/AC,2-wire,Perpendicular,2,Guide Table MGF,12,100
+Reed switch,â,Reed auto switch,DC/AC,2-wire,Perpendicular,2,Guide Table MGF,13,100
+Reed switch,M9N,Solid state auto switch,DC,3-wire (NPN),In-line,1.5,Guide Table MGF,5,12
+Reed switch,M9P,Solid state auto switch,DC,3-wire (PNP),In-line,1.5,Guide Table MGF,5,12
+Reed switch,M9B,Solid state auto switch,DC,2-wire,In-line,1.5,Guide Table MGF,12,12
+Reed switch,M9NW,Solid state auto switch,DC,3-wire (NPN),In-line,1.5,Guide Table MGF,5,12
+Reed switch,M9PW,Solid state auto switch,DC,3-wire (PNP),In-line,1.5,Guide Table MGF,5,12
+Reed switch,M9BW,Solid state auto switch,DC,2-wire,In-line,1.5,Guide Table MGF,12,12
+Reed switch,M9NAââ,Solid state auto switch,DC,3-wire (NPN),In-line,3,Guide Table MGF,5,12
+Reed switch,M9PAââ,Solid state auto switch,DC,3-wire (PNP),In-line,3,Guide Table MGF,5,12
+Reed switch,M9BAââ,Solid state auto switch,DC,2-wire,In-line,3,Guide Table MGF,12,12
+Reed switch,Z76,Solid state auto switch,DC,3-wire(NPN equivalent)Â,In-line,2,Guide Table MGF,5,12
+Reed switch,Z73,Reed auto switch,DC/AC,2-wire,In-line,2,Guide Table MGF,12,100
+Reed switch,Z80,Reed auto switch,DC/AC,2-wire,In-line,2,Guide Table MGF,13,100
+Reed switch,M9NV,Solid state auto switch,DC,3-wire (NPN),PerpendicularÂ,1.5,Non-rotating Double Power Cylinder MGZ/MGZR,5,12
+Reed switch,M9PV,Solid state auto switch,DC,3-wire (PNP),PerpendicularÂ,1.5,Non-rotating Double Power Cylinder MGZ/MGZR,5,12
+Reed switch,M9BV,Solid state auto switch,DC,2-wire,PerpendicularÂ,1.5,Non-rotating Double Power Cylinder MGZ/MGZR,12,12
+Reed switch,M9NWV,Solid state auto switch,DC,3-wire (NPN),PerpendicularÂ,1.5,Non-rotating Double Power Cylinder MGZ/MGZR,5,12
+Reed switch,M9PWV,Solid state auto switch,DC,3-wire (PNP),PerpendicularÂ,1.5,Non-rotating Double Power Cylinder MGZ/MGZR,5,12
+Reed switch,M9BWV,Solid state auto switch,DC,2-wire,PerpendicularÂ,1.5,Non-rotating Double Power Cylinder MGZ/MGZR,12,12
+Reed switch,M9NAVâ1,Solid state auto switch,DC,3-wire (NPN),PerpendicularÂ,3,Non-rotating Double Power Cylinder MGZ/MGZR,5,12
+Reed switch,M9PAVâ1,Solid state auto switch,DC,3-wire (PNP),PerpendicularÂ,3,Non-rotating Double Power Cylinder MGZ/MGZR,5,12
+Reed switch,M9BAVâ1,Solid state auto switch,DC,2-wire,PerpendicularÂ,3,Non-rotating Double Power Cylinder MGZ/MGZR,12,12
+Reed switch,A96V,Reed auto switch,DC,3-wire(NPN equiv.)Â,PerpendicularÂ,2,Non-rotating Double Power Cylinder MGZ/MGZR,5,12
+Reed switch,A93Vâ2,Reed auto switch,DC/AC,2-wireÂ,PerpendicularÂ,2,Non-rotating Double Power Cylinder MGZ/MGZR,12,100
+Reed switch,A90V,Reed auto switch,DC/AC,2-wireÂ,PerpendicularÂ,2,Non-rotating Double Power Cylinder MGZ/MGZR,100,12
+Reed switch,M9N,Solid state auto switch,DC,3-wire (NPN),In-line,1.5,Non-rotating Double Power Cylinder MGZ/MGZR,5,12
+Reed switch,M9P,Solid state auto switch,DC,3-wire (PNP),In-line,1.5,Non-rotating Double Power Cylinder MGZ/MGZR,5,12
+Reed switch,M9B,Solid state auto switch,DC,2-wire,In-line,1.5,Non-rotating Double Power Cylinder MGZ/MGZR,12,12
+Reed switch,M9NW,Solid state auto switch,DC,3-wire (NPN),In-line,1.5,Non-rotating Double Power Cylinder MGZ/MGZR,5,12
+Reed switch,M9PW,Solid state auto switch,DC,3-wire (PNP),In-line,1.5,Non-rotating Double Power Cylinder MGZ/MGZR,5,12
+Reed switch,M9BW,Solid state auto switch,DC,2-wire,In-line,1.5,Non-rotating Double Power Cylinder MGZ/MGZR,12,12
+Reed switch,M9NAâ1,Solid state auto switch,DC,3-wire (NPN),In-line,3,Non-rotating Double Power Cylinder MGZ/MGZR,5,12
+Reed switch,M9PAâ1,Solid state auto switch,DC,3-wire (PNP),In-line,3,Non-rotating Double Power Cylinder MGZ/MGZR,5,12
+Reed switch,M9BAâ1,Solid state auto switch,DC,2-wire,In-line,3,Non-rotating Double Power Cylinder MGZ/MGZR,12,12
+Reed switch,A96,Reed auto switch,DC,3-wire(NPN equiv.)Â,In-line,2,Non-rotating Double Power Cylinder MGZ/MGZR,5,12
+Reed switch,A93,Reed auto switch,DC/AC,2-wireÂ,In-line,2,Non-rotating Double Power Cylinder MGZ/MGZR,12,100
+Reed switch,A90,Reed auto switch,DC/AC,2-wireÂ,In-line,2,Non-rotating Double Power Cylinder MGZ/MGZR,100,12
